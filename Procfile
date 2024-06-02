@@ -1,2 +1,2 @@
-web: python3 best_instagram_downloader.py
-worker: python3 best_instagram_downloader.py
+web: nohup python3 best_instagram_downloader.py
+worker: nohup python3 best_instagram_downloader.py
